@@ -85,13 +85,10 @@ img{
     right: -20px;
     writing-mode: vertical-lr;
     font-size: 10px;
-    line-height: 13px;
+    line-height: 16px;
     font-family: var(--main-heading);
     text-transform: uppercase;
     font-weight: lighter;
-}
-@media (min-width: 576px){
-
 }
 @media (min-width: 992px){
     .container{
@@ -103,9 +100,6 @@ img{
     }
     .description .col{
         flex: 1;
-    }
-    .team .container .row{
-        justify-content: unset;
     }
     .description{
         margin: 100px 0px;
@@ -125,6 +119,7 @@ img{
     }
     .team .container{
         margin: 0 auto;
+        margin-bottom: 100px;
     }
     .team .container .row .col{
         flex-grow: 1;

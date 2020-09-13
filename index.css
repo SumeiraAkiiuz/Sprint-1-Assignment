@@ -84,7 +84,7 @@ img{
     top: 0;
     right: -20px;
     writing-mode: vertical-lr;
-    font-size: 10px;
+    font-size: 14px;
     line-height: 16px;
     font-family: var(--main-heading);
     text-transform: uppercase;
@@ -130,7 +130,7 @@ img{
     }
     .image-container > span{
         right: 60px;
-        font-size: 12px;
+        font-size: 13px;
         line-height: 16px;
     }
     .member:nth-child(2),

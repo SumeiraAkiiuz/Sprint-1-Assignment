@@ -54,7 +54,6 @@ img{
 }
 .team .container .row .col{
     width: 40%;
-    /* flex-grow: 1; */
 }
 .member{
     margin-bottom: 75px;
